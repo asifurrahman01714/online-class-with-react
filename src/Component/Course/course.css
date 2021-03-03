@@ -1,0 +1,13 @@
+.courseArea{
+    display:flex;
+}
+.courseSection{
+    width: 80%;
+    border-right: 1px solid black;
+    margin-left: 30px;
+    margin-right: 10px;
+    padding: 10px;
+}
+.EnrollCourse{
+    margin-top: 25px;
+}
